@@ -1,0 +1,13 @@
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\bin\Debug\ScannerDemo.exe.config
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\bin\Debug\ScannerDemo.exe
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\bin\Debug\ScannerDemo.pdb
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.csproj.AssemblyReference.cache
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\Interop.WIA.dll
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.Form1.resources
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.Properties.Resources.resources
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.csproj.GenerateResource.cache
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.exe
+C:\Users\Maria Rita\Desktop\n\csharp-scanner-wia\ScannerDemo\obj\Debug\ScannerDemo.pdb
